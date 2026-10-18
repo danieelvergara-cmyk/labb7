@@ -1,0 +1,11 @@
+# Build output
+bin/
+obj/
+TestResults/
+
+# IDE and operating-system files
+.vs/
+.vscode/
+*.user
+*.suo
+.DS_Store
